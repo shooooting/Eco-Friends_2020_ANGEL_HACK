@@ -4,7 +4,7 @@
 
 ### 2020.07.16
 
-### *Jun-young*
+### *shooooting*
     - pull Test
 
      - AddressViewController
@@ -31,7 +31,7 @@
 
 ### 2020.07.17
 
-### *Jun-young*
+### *shooooting*
     - GuideViewController
     - ReserveCompleteViewController
 
@@ -48,10 +48,6 @@
       - view
 
 ### 2020.07.18
-
-### *Jun-young*
-    
-### *Byoung-il* 
 
 ### *Yoon-na*
 
