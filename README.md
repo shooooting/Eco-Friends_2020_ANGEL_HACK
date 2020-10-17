@@ -11,10 +11,10 @@
         1. 주소검색
         2. 현재 위치 등록 버튼
 
-### *Byoung-il* 
+### *ByoungilYoun* 
 	  - add my develop
 
-### *Yoon-na*
+### *Qussk*
    - add my develop
 
     **LoginViewController**
@@ -35,11 +35,11 @@
     - GuideViewController
     - ReserveCompleteViewController
 
-### *Byoung-il* 
+### *ByoungilYoun* 
     - HomeViewController
     - 
 
-### *Yoon-na*
+### *Qussk*
     ** DescriptionViewController**
       - view
       - animation
@@ -49,7 +49,7 @@
 
 ### 2020.07.18
 
-### *Yoon-na*
+### *Qussk*
 
     **DetaileDescriotionViewController**
     - UIVeiw -> ScrolleView changed
